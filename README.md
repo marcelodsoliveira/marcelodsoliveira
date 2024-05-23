@@ -1,6 +1,6 @@
 ## Hi, i'm Marcelo Oliveira! Welcome to my github.
 
-- 🔭 I’m currently working as sysadmin at Hospital de Clínicas - Unicamp
+- 🔭 I’m currently working with DevOps at Hospital de Clínicas - Unicamp
 - 🌱 I’m currently learning about Web and Mobile Development.
 - 👯 I’m looking to collaborate with some opensource project
 
